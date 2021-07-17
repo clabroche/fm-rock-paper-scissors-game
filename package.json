@@ -1,6 +1,6 @@
 {
   "name": "fm-rock-paper-scissors-game",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "private": true,
   "scripts": {
     "client": "vue-cli-service serve",
