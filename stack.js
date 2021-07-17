@@ -6,7 +6,7 @@ const stack = [
       home: 'https://github.com/clabroche/fm-rock-paper-scissors-game',
       remote: 'git@github.com:clabroche/fm-rock-paper-scissors-game.git'
     },
-    url: 'http://localhost:8080',
+    url: 'http://localhost:8080/fm-rock-paper-scissors-game',
     spawnCmd: 'npm',
     spawnArgs: ['run', 'client'],
     spawnOptions: {
